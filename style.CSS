@@ -1,0 +1,42 @@
+#judul{
+    color: blue;
+    font-size: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: aqua;
+}
+
+
+#s1{
+    color: yellow;
+}
+
+/* gunakan child selector  */
+h2>q{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+/* style form pertanyaan */
+#judul{
+    color: blue;
+    font-size: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+h3{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.headingform{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+fieldset{
+    background-color: white;
+}
